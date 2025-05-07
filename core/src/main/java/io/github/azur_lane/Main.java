@@ -25,6 +25,9 @@ public class Main extends Game {
     public SpriteBatch batch;
     public BitmapFont font;
 
+    public int SCREEN_WIDTH = 1600;
+    public int SCREEN_HEIGHT = 800;
+
     @Override
     public void create() {
         batch = new SpriteBatch();

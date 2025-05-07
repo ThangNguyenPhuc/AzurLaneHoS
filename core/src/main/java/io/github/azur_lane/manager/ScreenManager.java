@@ -4,7 +4,6 @@ import io.github.azur_lane.Main;
 import io.github.azur_lane.screens.*;
 
 import io.github.azur_lane.utils.ScreenType;
-import com.badlogic.gdx.Screen;
 
 public class ScreenManager {
     private static ScreenManager instance;
